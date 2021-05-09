@@ -16,6 +16,12 @@
        - zalek2.png
        - zalek3.png
        - zalek_thug1.png
+- The Diligent Circle; based on components by Nihilos, Unnamed, and Ingo Ruhnke:
+   license: CC-by 3.0
+   portraits:
+     flf:
+       unique:
+         flint.png
 - Fernando L. Copercini \"Bisc88\" <fernandoluis1732@yahoo.com.br>:
    license: GPLv3+
    planet:
