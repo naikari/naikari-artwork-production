@@ -48,3 +48,18 @@
       space:
         - zalek_station1.webp
         - zalek_station2.webp
+- Unnamed:
+   license: CC-by-sa 3.0
+   outfit:
+     store:
+       - active_plating.png
+- Josiah Schwartfeger:
+   license: CC-by 3.0
+   outfit:
+     - store:
+       - afterburner.png
+- Sean Hildebrand:
+   license: CC-by 3.0
+   outfit:
+     store:
+       - cpu_i.png
