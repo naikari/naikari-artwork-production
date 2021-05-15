@@ -22,6 +22,8 @@
      flf:
        unique:
          flint.png
+     neutral:
+       - male6.png
      soromid:
        unique:
          chelsea.png
