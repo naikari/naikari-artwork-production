@@ -63,5 +63,9 @@
 - Sean Hildebrand:
    license: CC-by 3.0
    outfit:
+     space:
+       - caesar_blue.png
      store:
        - cpu_i.png
+       - caesarlauncher_blue.png
+       - caesar_blue.png
