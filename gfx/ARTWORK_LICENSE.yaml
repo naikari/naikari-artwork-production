@@ -98,10 +98,10 @@
    license: GPLv3+
    outfit:
      space:
+       - imperator.webp
+     store:
        - headhunterturret.webp
        - imperatorlauncher.webp
-       - imperator.webp
-     space:
        - imperator.webp
 - M. R. Bokhari \"Viruk\" <withextremeprejudice@gmail.com>:
    license: CC-by-sa 3.0
