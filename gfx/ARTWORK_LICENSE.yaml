@@ -94,3 +94,17 @@
        - cpu_i.png
        - caesarlauncher_blue.png
        - caesar_blue.png
+- Areze (modified from works by AstroMenace, Brian J. Cameron, and Renderwahn):
+   license: GPLv3+
+   outfit:
+     space:
+       - headhunterturret.webp
+       - imperatorlauncher.webp
+       - imperator.webp
+     space:
+       - imperator.webp
+- M. R. Bokhari \"Viruk\" <withextremeprejudice@gmail.com>:
+   license: CC-by-sa 3.0
+   loading:
+     - sting.webp
+     - diablo.webp
