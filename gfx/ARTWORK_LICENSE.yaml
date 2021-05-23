@@ -106,5 +106,25 @@
 - M. R. Bokhari \"Viruk\" <withextremeprejudice@gmail.com>:
    license: CC-by-sa 3.0
    loading:
-     - sting.webp
-     - diablo.webp
+     - sting.png
+     - diablo.png
+- The Diligent Circle, based on work from Vega Strike and work by Enigmatic:
+   license: GPLv3
+   map:
+      - proteron.png
+- The Diligent Circle, based on work from Josh Combs:
+   license: CC-by-sa 3.0
+   map:
+     - nebula.png
+- Kinniken:
+   license: GPLv3
+   map:
+     - empire.png
+- nenau (based on work from Vega Strike and Kinniken):
+   license: GPLv3+
+   map:
+     - dvaered.png
+     - frontier.png
+     - sirius.png
+     - soromid.png
+     - zalek.png
