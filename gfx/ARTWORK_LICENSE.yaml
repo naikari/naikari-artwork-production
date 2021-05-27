@@ -128,3 +128,8 @@
      - sirius.png
      - soromid.png
      - zalek.png
+- Areze:
+   license: GPLv3+
+   outfit:
+     space:
+       - tesla.webp
