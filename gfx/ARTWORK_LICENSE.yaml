@@ -1250,6 +1250,10 @@
       - frame_planet_top.png
       - outfit.png
       - speedDouble.png
+      neo:
+      - barcircles.png
+      - barFrame.png
+      - barHeader.png
 - Unnamed <https://opengameart.org/users/unnamed>:
     license: CC-by 3.0
     intro:
