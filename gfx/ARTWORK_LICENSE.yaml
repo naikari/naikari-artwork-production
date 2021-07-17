@@ -940,8 +940,8 @@
 - Ingo Ruhnke <grumbel@gmx.de>:
     license: GPLv3
     portraits:
-    - none.webp
-    - unknown.webp
+    - none.png
+    - unknown.png
     logo:
     - dvaered.webp
     - goddard.webp
@@ -956,211 +956,211 @@
     portraits:
       dvaered:
       - unique:
-        - ka'def.webp
-        - vicious.webp
-        - zolo.webp
-      - dv_civilian_f1.webp
-      - dv_civilian_f2.webp
-      - dv_general1.webp
-      - dv_military_m1.webp
-      - dv_military_m2.webp
-      - dv_military_m3.webp
-      - dv_military_f1.webp
-      - dv_military_f2.webp
+        - ka'def.png
+        - vicious.png
+        - zolo.png
+      - dv_civilian_f1.png
+      - dv_civilian_f2.png
+      - dv_general1.png
+      - dv_military_m1.png
+      - dv_military_m2.png
+      - dv_military_m3.png
+      - dv_military_f1.png
+      - dv_military_f2.png
       empire:
       - unique:
-        - czesc.webp
-        - dimitri.webp
-        - keer.webp
-        - soldner.webp
-      - empire_mil_f1.webp
-      - empire_mil_m1.webp
-      - empire_mil_m2.webp
-      - empire_mil_m3.webp
+        - czesc.png
+        - dimitri.png
+        - keer.png
+        - soldner.png
+      - empire_mil_f1.png
+      - empire_mil_m1.png
+      - empire_mil_m2.png
+      - empire_mil_m3.png
       flf:
         unique:
-        - benito.webp
+        - benito.png
       neutral:
       - unique:
-        - aristocrat.webp
-        - drunkard.webp
-        - flintley.webp
-        - hunter.webp
-        - jorek.webp
-        - mia.webp
-        - neil.webp
-        - oldwoman.webp
-        - rebina.webp
-        - rebina_casual.webp
-        - reynir.webp
-        - reynir2.webp
-        - youngbusinessman.webp
-        - youngbusinessman2.webp
-      - barman.webp
-      - cyborg1.webp
-      - cyborg2.webp
-      - cyborg3.webp
-      - female1.webp
-      - male1.webp
-      - miner1.webp
-      - miner2.webp
-      - scientist.webp
-      - scientist2.webp
-      - scientist3.webp
-      - thief1.webp
-      - thief2.webp
-      - thief3.webp
+        - aristocrat.png
+        - drunkard.png
+        - flintley.png
+        - hunter.png
+        - jorek.png
+        - mia.png
+        - neil.png
+        - oldwoman.png
+        - rebina.png
+        - rebina_casual.png
+        - reynir.png
+        - reynir2.png
+        - youngbusinessman.png
+        - youngbusinessman2.png
+      - barman.png
+      - cyborg1.png
+      - cyborg2.png
+      - cyborg3.png
+      - female1.png
+      - male1.png
+      - miner1.png
+      - miner2.png
+      - scientist.png
+      - scientist2.png
+      - scientist3.png
+      - thief1.png
+      - thief2.png
+      - thief3.png
       pirate:
-      - pirate_militia1.webp
-      - pirate_militia2.webp
-      - pirate1.webp
-      - pirate2.webp
-      - pirate3.webp
-      - pirate4.webp
+      - pirate_militia1.png
+      - pirate_militia2.png
+      - pirate1.png
+      - pirate2.png
+      - pirate3.png
+      - pirate4.png
       sirius:
       - unique:
-        - harja.webp
-        - joanne.webp
-        - patrek.webp
-      - sirius_fyrra_f1.webp
-      - sirius_fyrra_f2.webp
-      - sirius_fyrra_m1.webp
+        - harja.png
+        - joanne.png
+        - patrek.png
+      - sirius_fyrra_f1.png
+      - sirius_fyrra_f2.png
+      - sirius_fyrra_m1.png
     - background.png
 - The Diligent Circle, based on components by Nihilos, Unnamed, and Ingo Ruhnke:
     license: CC-by 3.0
     portraits:
       dvaered:
-      - dv_civilian_f3.webp
-      - dv_civilian_f4.webp
-      - dv_civilian_f5.webp
-      - dv_civilian_f6.webp
-      - dv_civilian_f7.webp
-      - dv_civilian_f8.webp
-      - dv_civilian_f9.webp
-      - dv_civilian_f10.webp
-      - dv_civilian_f11.webp
-      - dv_civilian_m1.webp
-      - dv_civilian_m2.webp
-      - dv_civilian_m3.webp
-      - dv_civilian_m4.webp
-      - dv_civilian_m5.webp
-      - dv_civilian_m6.webp
-      - dv_civilian_m7.webp
-      - dv_civilian_m8.webp
-      - dv_civilian_m9.webp
-      - dv_civilian_m10.webp
-      - dv_civilian_m11.webp
-      - dv_military_f3.webp
-      - dv_military_f4.webp
-      - dv_military_f5.webp
-      - dv_military_f6.webp
-      - dv_military_f7.webp
-      - dv_military_f8.webp
-      - dv_military_m4.webp
-      - dv_military_m5.webp
-      - dv_military_m6.webp
-      - dv_military_m7.webp
-      - dv_military_m8.webp
+      - dv_civilian_f3.png
+      - dv_civilian_f4.png
+      - dv_civilian_f5.png
+      - dv_civilian_f6.png
+      - dv_civilian_f7.png
+      - dv_civilian_f8.png
+      - dv_civilian_f9.png
+      - dv_civilian_f10.png
+      - dv_civilian_f11.png
+      - dv_civilian_m1.png
+      - dv_civilian_m2.png
+      - dv_civilian_m3.png
+      - dv_civilian_m4.png
+      - dv_civilian_m5.png
+      - dv_civilian_m6.png
+      - dv_civilian_m7.png
+      - dv_civilian_m8.png
+      - dv_civilian_m9.png
+      - dv_civilian_m10.png
+      - dv_civilian_m11.png
+      - dv_military_f3.png
+      - dv_military_f4.png
+      - dv_military_f5.png
+      - dv_military_f6.png
+      - dv_military_f7.png
+      - dv_military_f8.png
+      - dv_military_m4.png
+      - dv_military_m5.png
+      - dv_military_m6.png
+      - dv_military_m7.png
+      - dv_military_m8.png
       empire:
-      - empire_mil_f2.webp
-      - empire_mil_f3.webp
-      - empire_mil_f4.webp
-      - empire_mil_f5.webp
-      - empire_mil_m4.webp
-      - empire_mil_m5.webp
-      - empire_mil_m6.webp
-      - empire_mil_m7.webp
-      - empire_mil_m8.webp
+      - empire_mil_f2.png
+      - empire_mil_f3.png
+      - empire_mil_f4.png
+      - empire_mil_f5.png
+      - empire_mil_m4.png
+      - empire_mil_m5.png
+      - empire_mil_m6.png
+      - empire_mil_m7.png
+      - empire_mil_m8.png
       flf:
         unique:
-        - flint.webp
+        - flint.png
       neutral:
       - unique:
-        - arnoldsmith.webp
-        - cynthia.webp
-        - cynthia_father.webp
-        - dealer.webp
-        - fakesister.webp
-        - laidback.webp
-        - michal.webp
-        - middleaged.webp
-        - nexus_agent.webp
-        - paddy.webp
-        - shifty_merchant.webp
-        - unfamiliarman.webp
-      - female2.webp
-      - female3.webp
-      - female4.webp
-      - female5.webp
-      - female6.webp
-      - female7.webp
-      - female8.webp
-      - female9.webp
-      - female10.webp
-      - female11.webp
-      - female12.webp
-      - female13.webp
-      - male2.webp
-      - male3.webp
-      - male4.webp
-      - male5.webp
-      - male6.webp
-      - male7.webp
-      - male8.webp
-      - male9.webp
-      - male10.webp
-      - male11.webp
-      - male12.webp
-      - male13.webp
-      - thief4.webp
+        - arnoldsmith.png
+        - cynthia.png
+        - cynthia_father.png
+        - dealer.png
+        - fakesister.png
+        - laidback.png
+        - michal.png
+        - middleaged.png
+        - nexus_agent.png
+        - paddy.png
+        - shifty_merchant.png
+        - unfamiliarman.png
+      - female2.png
+      - female3.png
+      - female4.png
+      - female5.png
+      - female6.png
+      - female7.png
+      - female8.png
+      - female9.png
+      - female10.png
+      - female11.png
+      - female12.png
+      - female13.png
+      - male2.png
+      - male3.png
+      - male4.png
+      - male5.png
+      - male6.png
+      - male7.png
+      - male8.png
+      - male9.png
+      - male10.png
+      - male11.png
+      - male12.png
+      - male13.png
+      - thief4.png
       pirate:
-      - pirate5.webp
-      - pirate6.webp
-      - pirate7.webp
-      - pirate8.webp
-      - pirate9.webp
-      - pirate10.webp
-      - pirate11.webp
-      - pirate12.webp
-      - pirate13.webp
-      - pirate14.webp
+      - pirate5.png
+      - pirate6.png
+      - pirate7.png
+      - pirate8.png
+      - pirate9.png
+      - pirate10.png
+      - pirate11.png
+      - pirate12.png
+      - pirate13.png
+      - pirate14.png
       sirius:
       - unique:
-        - draga.webp
-        - rodentman.webp
-        - shaman.webp
-        - strangeman.webp
-      - sirius_fyrra_f3.webp
-      - sirius_fyrra_f4.webp
-      - sirius_fyrra_f5.webp
-      - sirius_fyrra_m2.webp
-      - sirius_fyrra_m3.webp
-      - sirius_fyrra_m4.webp
-      - sirius_fyrra_m5.webp
-      - sirius_shiara_f1.webp
-      - sirius_shiara_f2.webp
-      - sirius_shiara_f3.webp
-      - sirius_shiara_f4.webp
-      - sirius_shiara_f5.webp
-      - sirius_shiara_m1.webp
-      - sirius_shiara_m2.webp
-      - sirius_shiara_m3.webp
-      - sirius_shiara_m4.webp
-      - sirius_shiara_m5.webp
+        - draga.png
+        - rodentman.png
+        - shaman.png
+        - strangeman.png
+      - sirius_fyrra_f3.png
+      - sirius_fyrra_f4.png
+      - sirius_fyrra_f5.png
+      - sirius_fyrra_m2.png
+      - sirius_fyrra_m3.png
+      - sirius_fyrra_m4.png
+      - sirius_fyrra_m5.png
+      - sirius_shiara_f1.png
+      - sirius_shiara_f2.png
+      - sirius_shiara_f3.png
+      - sirius_shiara_f4.png
+      - sirius_shiara_f5.png
+      - sirius_shiara_m1.png
+      - sirius_shiara_m2.png
+      - sirius_shiara_m3.png
+      - sirius_shiara_m4.png
+      - sirius_shiara_m5.png
       soromid:
         unique:
-        - chelsea.webp
+        - chelsea.png
       zalek:
         unique:
-        - geller.webp
-        - logan.webp
+        - geller.png
+        - logan.png
 - Viktor Hahn, based on components by Nihilos:
     license: CC-by 3.0
     portraits:
       zalek:
         unique:
-        - mensing.webp
-        - student.webp
+        - mensing.png
+        - student.png
 - Scaatis:
     license: CC-by 3.0
     portraits:
