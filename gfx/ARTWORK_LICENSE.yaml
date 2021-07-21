@@ -955,7 +955,7 @@
     license: CC-by 3.0 (based on portraits by Ingo Ruhnke <grumbel@gmx.de>)
     portraits:
       dvaered:
-      - unique:
+        unique:
         - ka'def.png
         - vicious.png
         - zolo.png
@@ -968,7 +968,7 @@
       - dv_military_f1.png
       - dv_military_f2.png
       empire:
-      - unique:
+        unique:
         - czesc.png
         - dimitri.png
         - keer.png
@@ -981,7 +981,7 @@
         unique:
         - benito.png
       neutral:
-      - unique:
+        unique:
         - aristocrat.png
         - drunkard.png
         - flintley.png
@@ -1018,7 +1018,7 @@
       - pirate3.png
       - pirate4.png
       sirius:
-      - unique:
+        unique:
         - harja.png
         - joanne.png
         - patrek.png
@@ -1075,7 +1075,7 @@
         unique:
         - flint.png
       neutral:
-      - unique:
+        unique:
         - arnoldsmith.png
         - cynthia.png
         - cynthia_father.png
@@ -1126,7 +1126,7 @@
       - pirate13.png
       - pirate14.png
       sirius:
-      - unique:
+        unique:
         - draga.png
         - rodentman.png
         - shaman.png
@@ -1151,6 +1151,7 @@
       soromid:
         unique:
         - chelsea.png
+      - female1.png
       zalek:
         unique:
         - geller.png
