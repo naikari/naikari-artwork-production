@@ -150,23 +150,9 @@
     music:
     - blackmoor_tides.ogg
     - imminent_threat.ogg
-- BoxCat Games <https://soundcloud.com/boxcatllc/meeting-mtfox>:
-    license: CC-by 3.0
-    music:
-    - meeting_mtfox.ogg
-- Kenny.nl <https://www.kenney.nl/assets/casino-audio>:
-    license: CC0
-    sounds:
-    - gambling:
-      - cardSlide[1-8].ogg
-      - chipsStack[1-6].ogg
-      - dieThrow[1-3].ogg
 - jonhtrap:
     license: CC0
     sounds:
-    - loops:
-      - creepy_guitar.ogg (https://freesound.org/people/johntrap/sounds/528143/)
-      - riviere.ogg (https://freesound.org/people/johntrap/sounds/528301/)
     - jingles:
       - eerie.ogg (https://freesound.org/people/johntrap/sounds/527757/)
 - fisch12345:
@@ -184,34 +170,6 @@
     sounds:
     - ui:
       - happy.wav (https://freesound.org/people/LittleRobotSoundFactory/sounds/274203/)
-    - loops:
-      - alienplanet.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/270527/)
-      - alarm.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/270523/)
-    - songs:
-      - feeling-good-05.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320956/)
-      - feeling-good-08.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320970/)
-      - run-for-your-life-00.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320981/)
-      - space-exploration-08.ogg (https://freesound.org/people/LittleRobotSoundFactory/sounds/320959/)
-- Carlos Carty:
-    license: CC-by 3.0
-    sounds:
-    - songs:
-      - inca-spa.ogg (https://freesound.org/people/CarlosCarty/sounds/390879/)
-- Sunsai:
-    license: CC-by 3.0
-    sounds:
-    - songs:
-      - mushroom-background.ogg (https://freesound.org/people/Sunsai/sounds/415804/)
-- Frankum:
-    license: CC-by 3.0
-    sounds:
-    - songs:
-      - hip-hop-background.ogg (https://freesound.org/people/frankum/sounds/404027/)
-- copyc4t:
-    license: CC-by 3.0
-    sounds:
-    - songs:
-      - news.ogg (https://freesound.org/people/copyc4t/sounds/218372/)
 - Areze (made from works by Vega Strike and Johnathan Trumbo):
     license: GPLv2+
     sounds:
