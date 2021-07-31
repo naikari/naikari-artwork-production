@@ -1372,6 +1372,23 @@
       - lancelot_fighter_bay.webp
       - lancelot_empire_fighter_bay.webp
 - The Diligent Circle:
-   license: CC-by-sa 3.0
-   root:
-      - naikari.png
+    license: CC-by-sa 4.0
+    root:
+    - naikari.png
+- Lorc <https://lorcblog.blogspot.com/>:
+    license: CC-by 3.0
+    gui:
+      neo:
+      - iconArmor.png
+      - iconShield.png
+      - iconSpeed.png
+- Carl Olsen <https://twitter.com/unstoppableCarl>:
+    license: CC-by 3.0
+    gui:
+      neo:
+      - iconHeat.png
+- sbed <http://opengameart.org/content/95-game-icons>:
+    license: CC-by 3.0
+    gui:
+      neo:
+      - iconEnergy.png
