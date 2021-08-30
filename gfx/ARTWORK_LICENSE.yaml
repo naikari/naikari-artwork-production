@@ -1385,3 +1385,11 @@
     gui:
       neo:
       - iconEnergy.png
+- Tatermand <https://opengameart.org/users/tatermand>
+    license: CC-by-sa 3.0
+    bkg:
+    - nebula01.png
+- code32 <https://opengameart.org/users/code32>
+    license: CC0
+    bkg:
+    - nebula03.png
