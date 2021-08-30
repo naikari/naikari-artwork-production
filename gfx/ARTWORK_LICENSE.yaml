@@ -595,19 +595,14 @@
     license: CC-by-sa 3.0
     bkg:
     - nebula20.webp
-    - nebula21.webp
     - nebula22.webp
     - nebula23.webp
-    - nebula24.webp
-    - nebula25.webp
-    - nebula26.webp
-    - nebula27.webp
-    - nebula28.webp
-    - nebula29.webp
     - nebula30.webp
-    - nebula31.webp
-    - nebula32.webp
-    - nebula33.webp
+    - nebula31.png
+- FreeOrion <http://freeorion.org>:
+    license: CC-by-sa 3.0
+    bkg:
+    - nebula14.png
 - Galileus:
     license: CC-by-sa 3.0
     loading:
