@@ -443,6 +443,8 @@
       - Y00.webp
     logo:
     - pirate.webp
+    - pirate_small.png
+    - pirate_tiny.png
 - Sean Hildebrand:
     license: CC-by 3.0
     planet:
@@ -501,10 +503,20 @@
       - station-sphere.webp
     logo:
     - collective.webp
+    - collective_small.png
+    - collective_tiny.png
     - flf.webp
+    - flf_small.png
+    - flf_tiny.png
     - frontier.webp
+    - frontier_small.png
+    - frontier_tiny.png
     - proteron.webp
+    - proteron_small.png
+    - proteron_tiny.png
     - soromid.webp
+    - soromid_small.png
+    - soromid_tiny.png
     - trader.webp
     outfit:
       store:
@@ -591,6 +603,8 @@
     license: CC-by-sa 3
     logo:
     - thurion.webp
+    - thurion_small.png
+    - thurion_tiny.png
 - Josh Combs <http://freeorion.org>:
     license: CC-by-sa 3.0
     bkg:
@@ -937,13 +951,23 @@
     - unknown.png
     logo:
     - dvaered.webp
+    - dvaered_small.png
+    - dvaered_tiny.png
     - goddard.webp
+    - goddard_small.png
+    - goddard_tiny.png
     - sirius.webp
+    - sirius_small.png
+    - sirius_tiny.png
 - Viktor Hahn, based on Grumbel and FreeSeamlessTextures.com work:
     license: CC-by-SA 3.0
     logo:
     - empire.webp
+    - empire_small.png
+    - empire_tiny.png
     - zalek.webp
+    - zalek_small.png
+    - zalek_tiny.png
 - Nihilos <https://opengameart.org/users/nihilos>:
     license: CC-by 3.0 (based on portraits by Ingo Ruhnke <grumbel@gmx.de>)
     portraits:
