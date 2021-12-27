@@ -621,7 +621,25 @@
 - FreeOrion <http://freeorion.org>:
     license: CC-by-sa 3.0
     bkg:
+    - nebula01.png
+    - nebula02.png
+    - nebula03.png
+    - nebula04.png
+    - nebula05.png
+    - nebula06.png
+    - nebula07.png
+    - nebula08.png
+    - nebula09.png
+    - nebula10.png
+    - nebula11.png
+    - nebula12.png
+    - nebula13.png
     - nebula14.png
+    - nebula15.png
+    - nebula16.png
+    - nebula17.png
+    - nebula18.png
+    - nebula19.png
 - Galileus:
     license: CC-by-sa 3.0
     loading:
@@ -807,14 +825,6 @@
       - O04.webp
 - NASA:
     license: PD
-    bkg:
-    - nebula02.webp
-    - nebula04.webp
-    - nebula10.webp
-    - nebula12.webp
-    - nebula16.webp
-    - nebula17.webp
-    - nebula19.webp
     commodity:
     - water.webp
 - NASA:
@@ -1406,4 +1416,4 @@
 - Tatermand <https://opengameart.org/users/tatermand>
     license: CC-by-sa 3.0
     bkg:
-    - nebula01.png
+    - nebula35.png
