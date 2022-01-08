@@ -205,6 +205,8 @@
     ship:
       starbridge:
       - \*
+      zebra:
+      - \*
 - Justin Blanchard, based on work from Viktor Hahn:
     license: CC-by 4.0
     outfit:
