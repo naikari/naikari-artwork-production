@@ -205,6 +205,8 @@
     ship:
       arsenal:
       - \*
+      copia:
+      - \*
       mammon:
       - \*
       rainmaker:
