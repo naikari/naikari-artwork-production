@@ -1418,6 +1418,8 @@
     license: CC-by-sa 4.0
     root:
     - naikari.png
+    - naikari-rainbow.png
+    - naikari-red.png
 - Lorc <https://lorcblog.blogspot.com/>:
     license: CC-by 3.0
     gui:
