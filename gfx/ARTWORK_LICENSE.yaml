@@ -668,6 +668,11 @@
     ship:
     - shark
     - rhino
+    outfit:
+      store:
+      - shark_empire_fighter.webp
+      - shark_fighter.webp
+      - shark_pirate_fighter.webp
     planet:
       space:
       - wrath.webp
