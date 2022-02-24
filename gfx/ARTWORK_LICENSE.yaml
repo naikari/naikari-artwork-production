@@ -1421,6 +1421,29 @@
     - naikari-rainbow.png
     - naikari-red.png
     - naikari-aro.png
+    outfit:
+      store:
+      - map_collective.png
+      - map_dvaered.png
+      - map_dvaeredsoromid_trade_route.png
+      - map_dvaeredzalek_trade_route.png
+      - map_empire.png
+      - map_flf_pirate_route.png
+      - map_frontier.png
+      - map_kretogg_hidden_jumps.png
+      - map_local.png
+      - map_nebula_edge.png
+      - map_nebula_secret_jump.png
+      - map_new_haven_hidden_jumps.png
+      - map_pirate.png
+      - map_qorel_expanse.png
+      - map_sagittarius_bypass.png
+      - map_sirius.png
+      - map_sirius_border.png
+      - map_sol.png
+      - map_thurion.png
+      - map_ultra.png
+      - map_zalek.png
 - Lorc <https://lorcblog.blogspot.com/>:
     license: CC-by 3.0
     gui:
