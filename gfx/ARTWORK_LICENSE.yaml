@@ -1511,11 +1511,22 @@
     gui:
       neo:
       - iconHeat.png
+      - iconWeapHeat.png
 - sbed <http://opengameart.org/content/95-game-icons>:
     license: CC-by 3.0
     gui:
       neo:
       - iconEnergy.png
+- Lorc <https://lorcblog.blogspot.com/>
+    license: CC-by 3.0
+    gui:
+      neo:
+      - iconWeapPrimary.png
+- DarkZaitzev <http://darkzaitzev.deviantart.com/>
+    license: CC-by 3.0
+    gui:
+      neo:
+      - iconWeapSecondary.png
 - Tatermand <https://opengameart.org/users/tatermand>
     license: CC-by-sa 3.0
     bkg:
