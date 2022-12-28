@@ -446,10 +446,12 @@
     outfit:
       store:
       - bansheelauncher.webp
+      - empgrenadelauncher_blue.webp
       - grenadelauncher.webp
       - license.webp
       space:
       - empgrenade.png
+      - empgrenade_blue.png
       - banshee.png
     spfx:
     - emps.webp
@@ -557,6 +559,12 @@
       legacy:
       - minimal_planet.png
       - minimal_pilot.png
+- Sean Hildebrand, modified by diligentcircle:
+    license: CC-by 3.0
+    outfit:
+      space:
+      - plasma3.png
+      - plasma3-end.png
 - Enigmatic:
     license: CC-by 3.0
     loading:
