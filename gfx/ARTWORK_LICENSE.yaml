@@ -297,6 +297,7 @@
     license: GPLv3+
     outfit:
       space:
+      - plasma4.webp
       - teslaL.webp
       - teslaL-end.webp
       store:
