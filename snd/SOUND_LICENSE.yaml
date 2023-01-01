@@ -78,6 +78,10 @@
     sounds:
     - mace.wav
     - seeker.wav
+- Pumpkin Studios (Eidos):
+    license: GPLv2+
+    sounds:
+    - bemlsr.ogg
 - MrTLikesRobots?:
     license: GPLv3
     sounds:
