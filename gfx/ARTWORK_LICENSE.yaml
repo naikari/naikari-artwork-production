@@ -1557,3 +1557,10 @@
     outfit:
       store:
       - photon_dagger.png
+- Michael Zahniser <mzahniser@gmail.com>:
+    license: CC-by-sa 4.0
+    outfit:
+      store:
+      - apu_large.png
+      - apu_medium.png
+      - apu_small.png
