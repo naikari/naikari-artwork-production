@@ -1564,3 +1564,13 @@
       - apu_large.png
       - apu_medium.png
       - apu_small.png
+- Lia Gerty <https://github.com/ravenshining>, derived from works by Saugia and public domain works:
+    license: CC-by-sa 4.0
+    outfit:
+      store:
+      - power_amplification_circuit.png
+- Gefüllte Taubenbrust <jeaminer23@gmail.com>:
+    license: CC-by-sa 4.0
+    outfit:
+      store:
+      - rotary_power_accelerator.png
