@@ -1204,14 +1204,8 @@
       neutral:
         unique:
         - arnoldsmith.png
-        - cynthia.png
-        - cynthia_father.png
-        - dealer.png
-        - laidback.png
-        - michal.png
         - middleaged.png
         - nexus_agent.png
-        - paddy.png
         - peyton.png
         - shifty_merchant.png
         - terra.png
@@ -1255,10 +1249,7 @@
       - pirate14.png
       sirius:
         unique:
-        - draga.png
         - rodentman.png
-        - shaman.png
-        - strangeman.png
       - sirius_fyrra_f3.png
       - sirius_fyrra_f4.png
       - sirius_fyrra_f5.png
@@ -1282,7 +1273,6 @@
       - female1.png
       zalek:
         unique:
-        - geller.png
         - logan.png
 - Viktor Hahn, based on components by Nihilos:
     license: CC-by 3.0
