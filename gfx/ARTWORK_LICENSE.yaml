@@ -1377,6 +1377,7 @@
       - barcircles.png
       - barFrame.png
       - barHeader.png
+      - circleBar.png
 - Unnamed <https://opengameart.org/users/unnamed>:
     license: CC-by 3.0
     intro:
@@ -1519,6 +1520,7 @@
       - iconArmor.png
       - iconShield.png
       - iconSpeed.png
+      - iconStress.png
 - Carl Olsen <https://twitter.com/unstoppableCarl>:
     license: CC-by 3.0
     gui:
