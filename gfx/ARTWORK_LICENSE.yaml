@@ -1157,6 +1157,8 @@
     license: CC-by 3.0
     portraits:
       dvaered:
+        unique:
+        - lensa.png
       - dv_civilian_f3.png
       - dv_civilian_f4.png
       - dv_civilian_f5.png
