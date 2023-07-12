@@ -1134,9 +1134,9 @@
       - scientist.png
       - scientist2.png
       - scientist3.png
-      - thief1.png
-      - thief2.png
-      - thief3.png
+      - thief_female1.png
+      - thief_male1.png
+      - thief_male2.png
       pirate:
       - pirate_militia1.png
       - pirate_militia2.png
@@ -1207,7 +1207,6 @@
       neutral:
         unique:
         - arnoldsmith.png
-        - middleaged.png
         - nexus_agent.png
         - peyton.png
         - shifty_merchant.png
@@ -1238,8 +1237,8 @@
       - male11.png
       - male12.png
       - male13.png
-      - thief4.png
       - thief_female2.png
+      - thief_female3.png
       - thief_male3.png
       pirate:
       - pirate5.png
