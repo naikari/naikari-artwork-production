@@ -1084,12 +1084,12 @@
       dvaered:
         unique:
         - ka'def.png
+        - richard.png
         - vicious.png
         - zolo.png
       - dv_civilian_f1.png
       - dv_civilian_f2.png
       - dv_general1.png
-      - dv_military_m1.png
       - dv_military_m2.png
       - dv_military_m3.png
       - dv_military_f1.png
@@ -1185,6 +1185,7 @@
       - dv_military_f6.png
       - dv_military_f7.png
       - dv_military_f8.png
+      - dv_military_m1.png
       - dv_military_m4.png
       - dv_military_m5.png
       - dv_military_m6.png
