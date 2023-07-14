@@ -1153,7 +1153,7 @@
       - sirius_fyrra_f2.png
       - sirius_fyrra_m1.png
     - background.png
-- The Diligent Circle, based on components by Nihilos, Unnamed, and Ingo Ruhnke:
+- Diligent Circle, based on components by Nihilos, Unnamed, and Ingo Ruhnke:
     license: CC-by 3.0
     portraits:
       dvaered:
@@ -1240,6 +1240,7 @@
       - thief_female2.png
       - thief_female3.png
       - thief_female4.png
+      - thief_female5.png
       - thief_male3.png
       - thief_male4.png
       - thief_male5.png
@@ -1383,19 +1384,6 @@
       - barFrame.png
       - barHeader.png
       - circleBar.png
-- Unnamed <https://opengameart.org/users/unnamed>:
-    license: CC-by 3.0
-    intro:
-    - faster_than_light.webp
-    - first_steps_into_space.webp
-- The Diligent Circle (based on work by Unnamed <https://opengameart.org/users/unnamed> and Ingo Ruhnke):
-    license: GPLv3
-    intro:
-    - reign_of_daedris.webp
-- The Diligent Circle (based on work by ShinyOgre <https://opengameart.org/users/shinyogre> and Vega Strike):
-    license: GPLv3
-    intro:
-    - questions.webp
 - Mutos:
     license: CC-by 3.0
     commodity:
