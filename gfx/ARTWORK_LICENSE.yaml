@@ -1110,6 +1110,7 @@
       neutral:
         unique:
         - aristocrat.png
+        - barman.png
         - drunkard.png
         - flintley.png
         - hunter.png
@@ -1123,12 +1124,11 @@
         - reynir2.png
         - youngbusinessman.png
         - youngbusinessman2.png
-      - barman.png
-      - cyborg1.png
       - cyborg2.png
       - cyborg3.png
       - female1.png
       - male1.png
+      - male2.png
       - miner1.png
       - miner2.png
       - scientist.png
