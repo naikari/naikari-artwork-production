@@ -345,11 +345,11 @@
       - \*
       zalek:
       - \*
-- The Diligent Circle, based on work from Vega Strike and work by Enigmatic:
+- Diligent Circle, based on work from Vega Strike and work by Enigmatic:
     license: GPLv3
     map:
     - proteron.webp
-- The Diligent Circle, based on work from Josh Combs:
+- Diligent Circle, based on work from Josh Combs:
     license: CC-by-sa 3.0
     map:
     - nebula.webp
@@ -1209,6 +1209,7 @@
         - arnoldsmith.png
         - nexus_agent.png
         - peyton.png
+        - sauterfeldt.png
         - shifty_merchant.png
         - terra.png
         - unfamiliarman.png
@@ -1373,7 +1374,7 @@
       - minimal.png
       - minimal_fuel.png
       - minimal_energy.png
-- The Diligent Circle, based on work by Scaatis:
+- Diligent Circle, based on work by Scaatis:
     license: CC-by 3.0
     gui:
       brushed:
@@ -1477,7 +1478,7 @@
     outfit:
       store:
       - plating_patchwork.webp
-- The Diligent Circle:
+- Diligent Circle:
     license: CC-by-sa 4.0
     root:
     - naikari.png
