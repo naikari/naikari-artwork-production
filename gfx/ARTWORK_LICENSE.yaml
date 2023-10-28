@@ -159,6 +159,7 @@
       - spearhead.webp
       - vengeance.webp
       store:
+      - antimatter_lance.png
       - agility_combat_ai.webp
       - berserk_chip.webp
       - bioneural_combat_ai.webp
@@ -205,9 +206,10 @@
       - rs_hull_s.webp
       - scanning_combat_ai.webp
       - spearhead_launcher.webp
-      - unicorp_engine_l.web
-      - unicorp_engine_m.web
-      - unicorp_engine_s.web
+      - sfc.png
+      - unicorp_engine_l.webp
+      - unicorp_engine_m.webp
+      - unicorp_engine_s.webp
       - vengeance_launcher.webp
     planet:
       exterior:
