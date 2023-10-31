@@ -166,11 +166,14 @@
       - bioneural_combat_ai.webp
       - blink_drive.webp
       - catalytic_energy_drill.webp
+      - cpu_i.webp
       - cyclic_combat_ai.webp
       - drill_lance.webp
       - efficiency_combat_ai.webp
       - emergency_stasis_inducer.webp
       - faraday_tempest_coating.webp
+      - flow_amplifier_s.webp
+      - flow_resonator_s.webp
       - grave_beam.webp
       - grave_lance.webp
       - hive_combat_ai.webp
@@ -179,6 +182,7 @@
       - krain_patagium_engine.webp
       - krain_remige_engine.webp
       - lattice_thermal_coating.webp
+      - meditation_chamber_m.webp
       - milspec_impactoplastic_coating.webp
       - mining_lance1.webp
       - mining_lance2.webp
@@ -198,6 +202,7 @@
       - photovoltaic_nanobot_coating.webp
       - pinpoint_combat_ai.webp
       - rackham_razor.webp
+      - ragnarok_beam.webp
       - razor1.webp
       - razor2.webp
       - razor3.webp
@@ -208,11 +213,13 @@
       - rs_hull_m.webp
       - rs_hull_s.webp
       - scanning_combat_ai.webp
+      - shatter_launcher.webp
       - spearhead_launcher.webp
       - sfc.png
       - unicorp_engine_l.webp
       - unicorp_engine_m.webp
       - unicorp_engine_s.webp
+      - valkyrie_beam.webp
       - vengeance_launcher.webp
       - zd5_guardian_unit.webp
     planet:
