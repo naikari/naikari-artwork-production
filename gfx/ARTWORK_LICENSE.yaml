@@ -156,9 +156,9 @@
     license: CC-by 4.0
     outfit:
       space:
+      - sfc.webp
       - spearhead.webp
       - vengeance.webp
-      - sfc.webp
       store:
       - antimatter_lance.png
       - agility_combat_ai.webp
