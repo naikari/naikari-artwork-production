@@ -1492,6 +1492,12 @@
     outfit:
       store:
       - plating_patchwork.webp
+- Elven_Moustache:
+    license: CC-by 4.0
+    outfit:
+      store:
+      - plasma_drill_heavy.webp
+      - plasma_drill_small.webp
 - Diligent Circle:
     license: CC-by-sa 4.0
     root:
