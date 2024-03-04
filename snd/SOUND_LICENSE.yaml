@@ -194,3 +194,7 @@
     license: GPLv2+
     sounds:
     - photon.ogg
+- svoxx:
+    license: CC0
+    sounds:
+    - railgun.ogg (https://freesound.org/people/svoxx/sounds/394672/)
