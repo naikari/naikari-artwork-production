@@ -118,9 +118,7 @@
 - Jonathon Trumbo:
     license: GPLv2+
     sounds:
-    - 1-second-attachment.ogg
     - 1-second-detachment.ogg
-    - computer_jam.ogg
     - computer_lock.ogg
     - mouse_click.ogg
     - outfit-activation.ogg
